@@ -1,0 +1,32 @@
+Partlist exported from /Users/jeffw/Documents/Codeshelf/Engineering/CAD/GATEWY.PCB/Design/GATEWY.PCB.sch at 1/18/16 15:33
+
+Part	Value	Device	Package	Description	MfgName	MfgPartNum	MfgPrice	Verified	Notes	
+AWESOME	CJS	CJS	CJS		Copal Electronics Inc	CJS-1200TA				
+C1	15pF	RF-C0402	RF-C0402	RF capacitor pads for FSL reference design	Murata	GRM1555C1H150JZ01				
+C2	15pF	RF-C0402	RF-C0402	RF capacitor pads for FSL reference design	Murata	GRM1555C1H150JZ01				
+C3	0.1µF	RF-C0402	RF-C0402	RF capacitor pads for FSL reference design	Murata	GRM155R61A104KA01D				
+C4	0.1µF	RF-C0402	RF-C0402	RF capacitor pads for FSL reference design	Murata	GRM155R61A104KA01D				
+C7	4.7µF	RF-C0805	RF-C0805	RF capacitor pads for FSL reference design	Murata	GRM219R61A475KE19D				
+C8	0.1µF	RF-C0402	RF-C0402	RF capacitor pads for FSL reference design	Murata	GRM155R61A104KA01D				
+C9	10nF	RF-C0402	RF-C0402	RF capacitor pads for FSL reference design	Murata	GRM155R71E103KA01D				
+IC1	FT232RL	FT232RL	SSOP28	Source: http://www.ftdichip.com/Documents/DataSheets/DS_FT232R_v104.pdf	FTDI	FT232RL				
+JTAG	2X10JTAG	2X10JTAG	2X10JTAG							
+KW2		DF12_F	DF12_F		Hirose	DF12(3.0)-40DP-0.5V(86)				
+L1	60?	RF-L0603	RF-L0603	RF inductor pads for FSL reference design	Murata	BLM18PG600SN1D				
+LED1	RGLBED	RGLBED	RGBLED							
+R1	24Ohm	RF-R0805	RF-C0805	RF resistor pads for FSL reference design	Vishay Dale	CRCW080524R0FKEA				
+R2	24Ohm	RF-R0805	RF-C0805	RF resistor pads for FSL reference design	Vishay Dale	CRCW080524R0FKEA				
+R3	24Ohm	RF-R0805	RF-C0805	RF resistor pads for FSL reference design	Vishay Dale	CRCW080524R0FKEA				
+R4	10k	RF-R0805	RF-C0805	RF resistor pads for FSL reference design	Vishay Dale	CRCW080510K0FKEA				
+RT1	500mA	SMD050F	C1210	Tyco current limit switch	Tyco	MICROSMD050F-2				
+SW1	SWITCH-TACTILE	SWITCH-TACTILE	ESWITCH-TL3301PF		E-Switch	TL3301PF160QG				
+SW2	RA_BUTTON	RA_BUTTON	RA_BUTTON							
+SWD		PINHD-2X5SMALL	2X5HDR	PIN HEADER						
+U$14		FIDUCIAL	FIDUCIAL_1MM	For use by pick and place machines to calibrate the vision/machine, 1mm					DNP	
+U$18		FIDUCIAL	FIDUCIAL_1MM	For use by pick and place machines to calibrate the vision/machine, 1mm					DNP	
+U$25		FIDUCIAL	FIDUCIAL_1MM	For use by pick and place machines to calibrate the vision/machine, 1mm					DNP	
+U$26		FIDUCIAL	FIDUCIAL_1MM	For use by pick and place machines to calibrate the vision/machine, 1mm					DNP	
+U$27		FIDUCIAL	FIDUCIAL_1MM	For use by pick and place machines to calibrate the vision/machine, 1mm					DNP	
+U$28		FIDUCIAL	FIDUCIAL_1MM	For use by pick and place machines to calibrate the vision/machine, 1mm					DNP	
+U1	WS2801	WS2801	SO14							
+X1	USBPTH	USBPTH	USB-B-PTH	USB Connectors	Tyco	292304-1				
