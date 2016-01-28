@@ -296,140 +296,6 @@
 <text x="-7.5" y="-2.6" size="1.27" layer="21">1</text>
 <text x="-2.9" y="3.8" size="1.27" layer="21">&gt;Name</text>
 </package>
-<package name="2X05">
-<description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
-<wire x1="-6.35" y1="-1.905" x2="-5.715" y2="-2.54" width="0.1524" layer="21"/>
-<wire x1="-4.445" y1="-2.54" x2="-3.81" y2="-1.905" width="0.1524" layer="21"/>
-<wire x1="-3.81" y1="-1.905" x2="-3.175" y2="-2.54" width="0.1524" layer="21"/>
-<wire x1="-1.905" y1="-2.54" x2="-1.27" y2="-1.905" width="0.1524" layer="21"/>
-<wire x1="-1.27" y1="-1.905" x2="-0.635" y2="-2.54" width="0.1524" layer="21"/>
-<wire x1="0.635" y1="-2.54" x2="1.27" y2="-1.905" width="0.1524" layer="21"/>
-<wire x1="1.27" y1="-1.905" x2="1.905" y2="-2.54" width="0.1524" layer="21"/>
-<wire x1="3.175" y1="-2.54" x2="3.81" y2="-1.905" width="0.1524" layer="21"/>
-<wire x1="-6.35" y1="-1.905" x2="-6.35" y2="1.905" width="0.1524" layer="21"/>
-<wire x1="-6.35" y1="1.905" x2="-5.715" y2="2.54" width="0.1524" layer="21"/>
-<wire x1="-5.715" y1="2.54" x2="-4.445" y2="2.54" width="0.1524" layer="21"/>
-<wire x1="-4.445" y1="2.54" x2="-3.81" y2="1.905" width="0.1524" layer="21"/>
-<wire x1="-3.81" y1="1.905" x2="-3.175" y2="2.54" width="0.1524" layer="21"/>
-<wire x1="-3.175" y1="2.54" x2="-1.905" y2="2.54" width="0.1524" layer="21"/>
-<wire x1="-1.905" y1="2.54" x2="-1.27" y2="1.905" width="0.1524" layer="21"/>
-<wire x1="-1.27" y1="1.905" x2="-0.635" y2="2.54" width="0.1524" layer="21"/>
-<wire x1="-0.635" y1="2.54" x2="0.635" y2="2.54" width="0.1524" layer="21"/>
-<wire x1="0.635" y1="2.54" x2="1.27" y2="1.905" width="0.1524" layer="21"/>
-<wire x1="1.27" y1="1.905" x2="1.905" y2="2.54" width="0.1524" layer="21"/>
-<wire x1="1.905" y1="2.54" x2="3.175" y2="2.54" width="0.1524" layer="21"/>
-<wire x1="3.175" y1="2.54" x2="3.81" y2="1.905" width="0.1524" layer="21"/>
-<wire x1="-3.81" y1="1.905" x2="-3.81" y2="-1.905" width="0.1524" layer="21"/>
-<wire x1="-1.27" y1="1.905" x2="-1.27" y2="-1.905" width="0.1524" layer="21"/>
-<wire x1="1.27" y1="1.905" x2="1.27" y2="-1.905" width="0.1524" layer="21"/>
-<wire x1="3.81" y1="1.905" x2="3.81" y2="-1.905" width="0.1524" layer="21"/>
-<wire x1="1.905" y1="-2.54" x2="3.175" y2="-2.54" width="0.1524" layer="21"/>
-<wire x1="-0.635" y1="-2.54" x2="0.635" y2="-2.54" width="0.1524" layer="21"/>
-<wire x1="-3.175" y1="-2.54" x2="-1.905" y2="-2.54" width="0.1524" layer="21"/>
-<wire x1="-5.715" y1="-2.54" x2="-4.445" y2="-2.54" width="0.1524" layer="21"/>
-<wire x1="3.81" y1="-1.905" x2="4.445" y2="-2.54" width="0.1524" layer="21"/>
-<wire x1="5.715" y1="-2.54" x2="6.35" y2="-1.905" width="0.1524" layer="21"/>
-<wire x1="3.81" y1="1.905" x2="4.445" y2="2.54" width="0.1524" layer="21"/>
-<wire x1="4.445" y1="2.54" x2="5.715" y2="2.54" width="0.1524" layer="21"/>
-<wire x1="5.715" y1="2.54" x2="6.35" y2="1.905" width="0.1524" layer="21"/>
-<wire x1="6.35" y1="1.905" x2="6.35" y2="-1.905" width="0.1524" layer="21"/>
-<wire x1="4.445" y1="-2.54" x2="5.715" y2="-2.54" width="0.1524" layer="21"/>
-<rectangle x1="-5.334" y1="-1.524" x2="-4.826" y2="-1.016" layer="51"/>
-<rectangle x1="-5.334" y1="1.016" x2="-4.826" y2="1.524" layer="51"/>
-<rectangle x1="-2.794" y1="1.016" x2="-2.286" y2="1.524" layer="51"/>
-<rectangle x1="-2.794" y1="-1.524" x2="-2.286" y2="-1.016" layer="51"/>
-<rectangle x1="-0.254" y1="1.016" x2="0.254" y2="1.524" layer="51"/>
-<rectangle x1="-0.254" y1="-1.524" x2="0.254" y2="-1.016" layer="51"/>
-<rectangle x1="2.286" y1="1.016" x2="2.794" y2="1.524" layer="51"/>
-<rectangle x1="2.286" y1="-1.524" x2="2.794" y2="-1.016" layer="51"/>
-<rectangle x1="4.826" y1="1.016" x2="5.334" y2="1.524" layer="51"/>
-<rectangle x1="4.826" y1="-1.524" x2="5.334" y2="-1.016" layer="51"/>
-<pad name="1" x="-5.08" y="-1.27" drill="1.016" shape="octagon"/>
-<pad name="2" x="-5.08" y="1.27" drill="1.016" shape="octagon"/>
-<pad name="3" x="-2.54" y="-1.27" drill="1.016" shape="octagon"/>
-<pad name="4" x="-2.54" y="1.27" drill="1.016" shape="octagon"/>
-<pad name="5" x="0" y="-1.27" drill="1.016" shape="octagon"/>
-<pad name="6" x="0" y="1.27" drill="1.016" shape="octagon"/>
-<pad name="7" x="2.54" y="-1.27" drill="1.016" shape="octagon"/>
-<pad name="8" x="2.54" y="1.27" drill="1.016" shape="octagon"/>
-<pad name="9" x="5.08" y="-1.27" drill="1.016" shape="octagon"/>
-<pad name="10" x="5.08" y="1.27" drill="1.016" shape="octagon"/>
-<text x="-6.35" y="3.175" size="1.27" layer="25" ratio="10">&gt;NAME</text>
-<text x="-6.35" y="-4.445" size="1.27" layer="27">&gt;VALUE</text>
-</package>
-<package name="2X05/90">
-<description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
-<wire x1="-6.35" y1="-1.905" x2="-3.81" y2="-1.905" width="0.1524" layer="21"/>
-<wire x1="-3.81" y1="-1.905" x2="-3.81" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="-3.81" y1="0.635" x2="-6.35" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="-6.35" y1="0.635" x2="-6.35" y2="-1.905" width="0.1524" layer="21"/>
-<wire x1="-5.08" y1="6.985" x2="-5.08" y2="1.27" width="0.762" layer="21"/>
-<wire x1="-3.81" y1="-1.905" x2="-1.27" y2="-1.905" width="0.1524" layer="21"/>
-<wire x1="-1.27" y1="-1.905" x2="-1.27" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="-1.27" y1="0.635" x2="-3.81" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="-2.54" y1="6.985" x2="-2.54" y2="1.27" width="0.762" layer="21"/>
-<wire x1="-1.27" y1="-1.905" x2="1.27" y2="-1.905" width="0.1524" layer="21"/>
-<wire x1="1.27" y1="-1.905" x2="1.27" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="1.27" y1="0.635" x2="-1.27" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="0" y1="6.985" x2="0" y2="1.27" width="0.762" layer="21"/>
-<wire x1="1.27" y1="-1.905" x2="3.81" y2="-1.905" width="0.1524" layer="21"/>
-<wire x1="3.81" y1="-1.905" x2="3.81" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="3.81" y1="0.635" x2="1.27" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="2.54" y1="6.985" x2="2.54" y2="1.27" width="0.762" layer="21"/>
-<wire x1="3.81" y1="-1.905" x2="6.35" y2="-1.905" width="0.1524" layer="21"/>
-<wire x1="6.35" y1="-1.905" x2="6.35" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="6.35" y1="0.635" x2="3.81" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="5.08" y1="6.985" x2="5.08" y2="1.27" width="0.762" layer="21"/>
-<rectangle x1="-5.461" y1="0.635" x2="-4.699" y2="1.143" layer="21"/>
-<rectangle x1="-2.921" y1="0.635" x2="-2.159" y2="1.143" layer="21"/>
-<rectangle x1="-0.381" y1="0.635" x2="0.381" y2="1.143" layer="21"/>
-<rectangle x1="2.159" y1="0.635" x2="2.921" y2="1.143" layer="21"/>
-<rectangle x1="4.699" y1="0.635" x2="5.461" y2="1.143" layer="21"/>
-<rectangle x1="-5.461" y1="-2.921" x2="-4.699" y2="-1.905" layer="21"/>
-<rectangle x1="-2.921" y1="-2.921" x2="-2.159" y2="-1.905" layer="21"/>
-<rectangle x1="-5.461" y1="-5.461" x2="-4.699" y2="-4.699" layer="21"/>
-<rectangle x1="-5.461" y1="-4.699" x2="-4.699" y2="-2.921" layer="51"/>
-<rectangle x1="-2.921" y1="-4.699" x2="-2.159" y2="-2.921" layer="51"/>
-<rectangle x1="-2.921" y1="-5.461" x2="-2.159" y2="-4.699" layer="21"/>
-<rectangle x1="-0.381" y1="-2.921" x2="0.381" y2="-1.905" layer="21"/>
-<rectangle x1="2.159" y1="-2.921" x2="2.921" y2="-1.905" layer="21"/>
-<rectangle x1="-0.381" y1="-5.461" x2="0.381" y2="-4.699" layer="21"/>
-<rectangle x1="-0.381" y1="-4.699" x2="0.381" y2="-2.921" layer="51"/>
-<rectangle x1="2.159" y1="-4.699" x2="2.921" y2="-2.921" layer="51"/>
-<rectangle x1="2.159" y1="-5.461" x2="2.921" y2="-4.699" layer="21"/>
-<rectangle x1="4.699" y1="-2.921" x2="5.461" y2="-1.905" layer="21"/>
-<rectangle x1="4.699" y1="-5.461" x2="5.461" y2="-4.699" layer="21"/>
-<rectangle x1="4.699" y1="-4.699" x2="5.461" y2="-2.921" layer="51"/>
-<pad name="1" x="-5.08" y="-6.35" drill="1.016" shape="octagon"/>
-<pad name="2" x="-5.08" y="-3.81" drill="1.016" shape="octagon"/>
-<pad name="3" x="-2.54" y="-6.35" drill="1.016" shape="octagon"/>
-<pad name="4" x="-2.54" y="-3.81" drill="1.016" shape="octagon"/>
-<pad name="5" x="0" y="-6.35" drill="1.016" shape="octagon"/>
-<pad name="6" x="0" y="-3.81" drill="1.016" shape="octagon"/>
-<pad name="7" x="2.54" y="-6.35" drill="1.016" shape="octagon"/>
-<pad name="8" x="2.54" y="-3.81" drill="1.016" shape="octagon"/>
-<pad name="9" x="5.08" y="-6.35" drill="1.016" shape="octagon"/>
-<pad name="10" x="5.08" y="-3.81" drill="1.016" shape="octagon"/>
-<text x="-6.985" y="-3.81" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
-<text x="8.255" y="-3.81" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
-</package>
-<package name="2X5HDR">
-<circle x="-2.54" y="-1.94" radius="0.3" width="0" layer="21"/>
-<pad name="P$1" x="-2.54" y="-0.67" drill="0.7" diameter="1"/>
-<pad name="P$2" x="-2.54" y="0.6" drill="0.7" diameter="1"/>
-<pad name="P$3" x="-1.27" y="-0.67" drill="0.7" diameter="1"/>
-<pad name="P$4" x="-1.27" y="0.6" drill="0.7" diameter="1"/>
-<pad name="P$5" x="0" y="-0.67" drill="0.7" diameter="1"/>
-<pad name="P$6" x="0" y="0.6" drill="0.7" diameter="1"/>
-<pad name="P$7" x="1.27" y="-0.67" drill="0.7" diameter="1"/>
-<pad name="P$8" x="1.27" y="0.6" drill="0.7" diameter="1"/>
-<pad name="P$9" x="2.54" y="-0.67" drill="0.7" diameter="1"/>
-<pad name="P$10" x="2.54" y="0.6" drill="0.7" diameter="1"/>
-<wire x1="-3.175" y1="1.65" x2="3.175" y2="1.65" width="0.127" layer="21"/>
-<wire x1="3.175" y1="1.65" x2="3.175" y2="-1.75" width="0.127" layer="21"/>
-<wire x1="3.175" y1="-1.75" x2="-3.175" y2="-1.75" width="0.127" layer="21"/>
-<wire x1="-3.175" y1="-1.75" x2="-3.175" y2="1.65" width="0.127" layer="21"/>
-</package>
 </packages>
 <symbols>
 <symbol name="DF12_F">
@@ -625,24 +491,6 @@ P40- VIN</text>
 <circle x="2.54" y="2.794" radius="0.567959375" width="0.254" layer="97"/>
 <circle x="5.08" y="0.254" radius="0.508" width="0.254" layer="97"/>
 </symbol>
-<symbol name="PINH2X5">
-<wire x1="-6.35" y1="-7.62" x2="8.89" y2="-7.62" width="0.4064" layer="94"/>
-<wire x1="8.89" y1="-7.62" x2="8.89" y2="7.62" width="0.4064" layer="94"/>
-<wire x1="8.89" y1="7.62" x2="-6.35" y2="7.62" width="0.4064" layer="94"/>
-<wire x1="-6.35" y1="7.62" x2="-6.35" y2="-7.62" width="0.4064" layer="94"/>
-<pin name="1" x="-2.54" y="5.08" visible="pad" length="short" direction="pas" function="dot"/>
-<pin name="2" x="5.08" y="5.08" visible="pad" length="short" direction="pas" function="dot" rot="R180"/>
-<pin name="3" x="-2.54" y="2.54" visible="pad" length="short" direction="pas" function="dot"/>
-<pin name="4" x="5.08" y="2.54" visible="pad" length="short" direction="pas" function="dot" rot="R180"/>
-<pin name="5" x="-2.54" y="0" visible="pad" length="short" direction="pas" function="dot"/>
-<pin name="6" x="5.08" y="0" visible="pad" length="short" direction="pas" function="dot" rot="R180"/>
-<pin name="7" x="-2.54" y="-2.54" visible="pad" length="short" direction="pas" function="dot"/>
-<pin name="8" x="5.08" y="-2.54" visible="pad" length="short" direction="pas" function="dot" rot="R180"/>
-<pin name="9" x="-2.54" y="-5.08" visible="pad" length="short" direction="pas" function="dot"/>
-<pin name="10" x="5.08" y="-5.08" visible="pad" length="short" direction="pas" function="dot" rot="R180"/>
-<text x="-6.35" y="8.255" size="1.778" layer="95">&gt;NAME</text>
-<text x="-6.35" y="-10.16" size="1.778" layer="96">&gt;VALUE</text>
-</symbol>
 </symbols>
 <devicesets>
 <deviceset name="DF12_F">
@@ -814,65 +662,6 @@ P40- VIN</text>
 <attribute name="MFGN" value="Copal Electronics Inc" constant="no"/>
 <attribute name="MFGP" value="CJS-1200TA" constant="no"/>
 </technology>
-</technologies>
-</device>
-</devices>
-</deviceset>
-<deviceset name="PINHD-2X5" prefix="JP" uservalue="yes">
-<description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
-<gates>
-<gate name="A" symbol="PINH2X5" x="0" y="0"/>
-</gates>
-<devices>
-<device name="" package="2X05">
-<connects>
-<connect gate="A" pin="1" pad="1"/>
-<connect gate="A" pin="10" pad="10"/>
-<connect gate="A" pin="2" pad="2"/>
-<connect gate="A" pin="3" pad="3"/>
-<connect gate="A" pin="4" pad="4"/>
-<connect gate="A" pin="5" pad="5"/>
-<connect gate="A" pin="6" pad="6"/>
-<connect gate="A" pin="7" pad="7"/>
-<connect gate="A" pin="8" pad="8"/>
-<connect gate="A" pin="9" pad="9"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-<device name="/90" package="2X05/90">
-<connects>
-<connect gate="A" pin="1" pad="1"/>
-<connect gate="A" pin="10" pad="10"/>
-<connect gate="A" pin="2" pad="2"/>
-<connect gate="A" pin="3" pad="3"/>
-<connect gate="A" pin="4" pad="4"/>
-<connect gate="A" pin="5" pad="5"/>
-<connect gate="A" pin="6" pad="6"/>
-<connect gate="A" pin="7" pad="7"/>
-<connect gate="A" pin="8" pad="8"/>
-<connect gate="A" pin="9" pad="9"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-<device name="SMALL" package="2X5HDR">
-<connects>
-<connect gate="A" pin="1" pad="P$1"/>
-<connect gate="A" pin="10" pad="P$10"/>
-<connect gate="A" pin="2" pad="P$2"/>
-<connect gate="A" pin="3" pad="P$3"/>
-<connect gate="A" pin="4" pad="P$4"/>
-<connect gate="A" pin="5" pad="P$5"/>
-<connect gate="A" pin="6" pad="P$6"/>
-<connect gate="A" pin="7" pad="P$7"/>
-<connect gate="A" pin="8" pad="P$8"/>
-<connect gate="A" pin="9" pad="P$9"/>
-</connects>
-<technologies>
-<technology name=""/>
 </technologies>
 </device>
 </devices>
@@ -2747,7 +2536,7 @@ Source: http://www.ftdichip.com/Documents/DataSheets/DS_FT232R_v104.pdf</descrip
 <attribute name="MFGN" value="Vishay Dale"/>
 <attribute name="MFGP" value="CRCW080524R0FKEA"/>
 </part>
-<part name="JTAG" library="KW2" deviceset="2X10JTAG" device="" value="2X10JTAG"/>
+<part name="JTAG" library="KW2" deviceset="2X10JTAG" device="SMD" value="2X10JTAGSMD"/>
 <part name="+3V7" library="supply1" deviceset="+3V3" device=""/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
 <part name="SW2" library="KW2" deviceset="RA_BUTTON" device="" value="RA_BUTTON"/>
@@ -2825,9 +2614,6 @@ Source: http://www.ftdichip.com/Documents/DataSheets/DS_FT232R_v104.pdf</descrip
 <attribute name="MFGN" value="Tyco"/>
 <attribute name="MFGP" value="MICROSMD050F-2"/>
 </part>
-<part name="SWD" library="KW2" deviceset="PINHD-2X5" device="SMALL"/>
-<part name="+3V5" library="supply1" deviceset="+3V3" device=""/>
-<part name="GND4" library="supply1" deviceset="GND" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -2940,9 +2726,6 @@ Source: http://www.ftdichip.com/Documents/DataSheets/DS_FT232R_v104.pdf</descrip
 <attribute name="MFGN" x="-203.2" y="-40.64" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="MFGP" x="-203.2" y="-40.64" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
-<instance part="SWD" gate="A" x="0" y="-99.06"/>
-<instance part="+3V5" gate="G$1" x="-17.78" y="-83.82"/>
-<instance part="GND4" gate="1" x="-17.78" y="-111.76"/>
 </instances>
 <busses>
 </busses>
@@ -3080,16 +2863,6 @@ Source: http://www.ftdichip.com/Documents/DataSheets/DS_FT232R_v104.pdf</descrip
 <pinref part="C8" gate="G$1" pin="2"/>
 <pinref part="X1" gate="G$1" pin="GND"/>
 </segment>
-<segment>
-<pinref part="SWD" gate="A" pin="5"/>
-<pinref part="GND4" gate="1" pin="GND"/>
-<wire x1="-2.54" y1="-99.06" x2="-17.78" y2="-99.06" width="0.1524" layer="91"/>
-<wire x1="-17.78" y1="-99.06" x2="-17.78" y2="-109.22" width="0.1524" layer="91"/>
-<pinref part="SWD" gate="A" pin="3"/>
-<wire x1="-2.54" y1="-96.52" x2="-17.78" y2="-96.52" width="0.1524" layer="91"/>
-<wire x1="-17.78" y1="-96.52" x2="-17.78" y2="-99.06" width="0.1524" layer="91"/>
-<junction x="-17.78" y="-99.06"/>
-</segment>
 </net>
 <net name="+3V3" class="1">
 <segment>
@@ -3134,12 +2907,6 @@ Source: http://www.ftdichip.com/Documents/DataSheets/DS_FT232R_v104.pdf</descrip
 <pinref part="IC1" gate="1" pin="VCCIO"/>
 <pinref part="C3" gate="G$1" pin="1"/>
 <pinref part="+3V4" gate="G$1" pin="+3V3"/>
-</segment>
-<segment>
-<pinref part="SWD" gate="A" pin="1"/>
-<pinref part="+3V5" gate="G$1" pin="+3V3"/>
-<wire x1="-2.54" y1="-93.98" x2="-17.78" y2="-93.98" width="0.1524" layer="91"/>
-<wire x1="-17.78" y1="-93.98" x2="-17.78" y2="-86.36" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$4" class="0">
@@ -3213,10 +2980,6 @@ Source: http://www.ftdichip.com/Documents/DataSheets/DS_FT232R_v104.pdf</descrip
 <pinref part="JTAG" gate="G$1" pin="P$4"/>
 <wire x1="40.64" y1="-33.02" x2="73.66" y2="-33.02" width="0.1524" layer="91"/>
 <wire x1="73.66" y1="-33.02" x2="73.66" y2="-48.26" width="0.1524" layer="91"/>
-<pinref part="SWD" gate="A" pin="4"/>
-<wire x1="5.08" y1="-96.52" x2="40.64" y2="-96.52" width="0.1524" layer="91"/>
-<wire x1="40.64" y1="-96.52" x2="40.64" y2="-33.02" width="0.1524" layer="91"/>
-<junction x="40.64" y="-33.02"/>
 </segment>
 </net>
 <net name="N$20" class="0">
@@ -3234,10 +2997,6 @@ Source: http://www.ftdichip.com/Documents/DataSheets/DS_FT232R_v104.pdf</descrip
 <wire x1="25.4" y1="-25.4" x2="38.1" y2="-25.4" width="0.1524" layer="91"/>
 <wire x1="38.1" y1="-25.4" x2="76.2" y2="-25.4" width="0.1524" layer="91"/>
 <wire x1="76.2" y1="-25.4" x2="76.2" y2="-48.26" width="0.1524" layer="91"/>
-<pinref part="SWD" gate="A" pin="2"/>
-<wire x1="5.08" y1="-93.98" x2="38.1" y2="-93.98" width="0.1524" layer="91"/>
-<wire x1="38.1" y1="-93.98" x2="38.1" y2="-25.4" width="0.1524" layer="91"/>
-<junction x="38.1" y="-25.4"/>
 </segment>
 </net>
 <net name="N$8" class="0">
@@ -3259,9 +3018,6 @@ Source: http://www.ftdichip.com/Documents/DataSheets/DS_FT232R_v104.pdf</descrip
 <junction x="33.02" y="-35.56"/>
 <pinref part="SW2" gate="G$1" pin="1"/>
 <wire x1="22.86" y1="-60.96" x2="33.02" y2="-60.96" width="0.1524" layer="91"/>
-<pinref part="SWD" gate="A" pin="10"/>
-<wire x1="5.08" y1="-104.14" x2="33.02" y2="-104.14" width="0.1524" layer="91"/>
-<wire x1="33.02" y1="-104.14" x2="33.02" y2="-71.12" width="0.1524" layer="91"/>
 <junction x="33.02" y="-60.96"/>
 <pinref part="IC1" gate="1" pin="CBUS0"/>
 <wire x1="33.02" y1="-71.12" x2="33.02" y2="-60.96" width="0.1524" layer="91"/>
@@ -3270,7 +3026,6 @@ Source: http://www.ftdichip.com/Documents/DataSheets/DS_FT232R_v104.pdf</descrip
 <wire x1="-66.04" y1="-58.42" x2="-66.04" y2="-68.58" width="0.1524" layer="91"/>
 <wire x1="-66.04" y1="-68.58" x2="-66.04" y2="-71.12" width="0.1524" layer="91"/>
 <wire x1="-66.04" y1="-71.12" x2="33.02" y2="-71.12" width="0.1524" layer="91"/>
-<junction x="33.02" y="-71.12"/>
 </segment>
 </net>
 <net name="USB-" class="0">
