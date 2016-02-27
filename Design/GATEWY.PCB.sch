@@ -3094,40 +3094,43 @@ Source: http://www.ftdichip.com/Documents/DataSheets/DS_FT232R_v104.pdf</descrip
 <pinref part="RT1" gate="G$1" pin="2"/>
 </segment>
 </net>
-<net name="N$2" class="0">
+<net name="RTS" class="0">
 <segment>
 <pinref part="KW2" gate="G$1" pin="PTD4/LLWU_P14/MADC0_SE21/SPI0_PCS1/!UART0_RTS!/FTM0_CH4/EWM_IN/GPIO_BSM_FRAME"/>
 <wire x1="-5.08" y1="-27.94" x2="-86.36" y2="-27.94" width="0.1524" layer="91"/>
-<wire x1="-86.36" y1="-27.94" x2="-86.36" y2="-17.78" width="0.1524" layer="91"/>
-<pinref part="IC1" gate="1" pin="!RTS"/>
-<wire x1="-86.36" y1="-17.78" x2="-104.14" y2="-17.78" width="0.1524" layer="91"/>
+<wire x1="-86.36" y1="-27.94" x2="-91.44" y2="-27.94" width="0.1524" layer="91"/>
+<pinref part="IC1" gate="1" pin="!CTS"/>
+<wire x1="-91.44" y1="-27.94" x2="-91.44" y2="-20.32" width="0.1524" layer="91"/>
+<wire x1="-91.44" y1="-20.32" x2="-104.14" y2="-20.32" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$3" class="0">
+<net name="CTS" class="0">
 <segment>
 <pinref part="KW2" gate="G$1" pin="PTD5/ADC0_SE6B/SPI0_PCS2/!UART0_CTS!/!UART0_COL!/FTM0_CH5/!EWM_OUT"/>
 <wire x1="-5.08" y1="-25.4" x2="-88.9" y2="-25.4" width="0.1524" layer="91"/>
 <wire x1="-88.9" y1="-25.4" x2="-88.9" y2="-20.32" width="0.1524" layer="91"/>
-<pinref part="IC1" gate="1" pin="!CTS"/>
-<wire x1="-88.9" y1="-20.32" x2="-104.14" y2="-20.32" width="0.1524" layer="91"/>
+<pinref part="IC1" gate="1" pin="!RTS"/>
+<wire x1="-88.9" y1="-20.32" x2="-88.9" y2="-17.78" width="0.1524" layer="91"/>
+<wire x1="-88.9" y1="-17.78" x2="-104.14" y2="-17.78" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$9" class="0">
+<net name="RX" class="0">
 <segment>
 <pinref part="KW2" gate="G$1" pin="PTD6/LLWU_P15/ADC0_SE7B/SPI0_PCS3/UART0_RX/FTM0_CH6/FTM0_FLT0"/>
 <wire x1="-5.08" y1="-22.86" x2="-83.82" y2="-22.86" width="0.1524" layer="91"/>
 <wire x1="-83.82" y1="-22.86" x2="-83.82" y2="-15.24" width="0.1524" layer="91"/>
-<pinref part="IC1" gate="1" pin="RXD"/>
-<wire x1="-83.82" y1="-15.24" x2="-104.14" y2="-15.24" width="0.1524" layer="91"/>
+<pinref part="IC1" gate="1" pin="TXD"/>
+<wire x1="-83.82" y1="-15.24" x2="-83.82" y2="-12.7" width="0.1524" layer="91"/>
+<wire x1="-83.82" y1="-12.7" x2="-104.14" y2="-12.7" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$15" class="0">
+<net name="TX" class="0">
 <segment>
 <pinref part="KW2" gate="G$1" pin="PTD7/MADC0_SE22/CMT_IRO/UART0_TX/FTM0_CH7/FTM0_FLT1"/>
 <wire x1="-5.08" y1="-20.32" x2="-81.28" y2="-20.32" width="0.1524" layer="91"/>
-<wire x1="-81.28" y1="-20.32" x2="-81.28" y2="-12.7" width="0.1524" layer="91"/>
-<pinref part="IC1" gate="1" pin="TXD"/>
-<wire x1="-81.28" y1="-12.7" x2="-104.14" y2="-12.7" width="0.1524" layer="91"/>
+<wire x1="-81.28" y1="-20.32" x2="-81.28" y2="-15.24" width="0.1524" layer="91"/>
+<pinref part="IC1" gate="1" pin="RXD"/>
+<wire x1="-81.28" y1="-15.24" x2="-104.14" y2="-15.24" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$17" class="0">
