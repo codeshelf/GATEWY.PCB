@@ -2522,7 +2522,10 @@ Source: http://www.ftdichip.com/Documents/DataSheets/DS_FT232R_v104.pdf</descrip
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
 <part name="+3V1" library="supply1" deviceset="+3V3" device=""/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
-<part name="U1" library="GW-devices" deviceset="WS2801" device="" value="WS2801"/>
+<part name="U1" library="GW-devices" deviceset="WS2801" device="" value="WS2801">
+<attribute name="MFGN" value="WorldSemi"/>
+<attribute name="MFGP" value="WS2801"/>
+</part>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
 <part name="R1" library="GW-devices" deviceset="RF-R" device="0805" value="24Ohm">
 <attribute name="MFGN" value="Vishay Dale"/>
@@ -2536,17 +2539,26 @@ Source: http://www.ftdichip.com/Documents/DataSheets/DS_FT232R_v104.pdf</descrip
 <attribute name="MFGN" value="Vishay Dale"/>
 <attribute name="MFGP" value="CRCW080524R0FKEA"/>
 </part>
-<part name="JTAG" library="KW2" deviceset="2X10JTAG" device="SMD" value="2X10JTAGSMD"/>
+<part name="JTAG" library="KW2" deviceset="2X10JTAG" device="SMD" value="2X10JTAGSMD">
+<attribute name="MFGN" value="Sullins"/>
+<attribute name="MFGP" value="GRPB102VWQS-RC"/>
+</part>
 <part name="+3V7" library="supply1" deviceset="+3V3" device=""/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
-<part name="SW2" library="KW2" deviceset="RA_BUTTON" device="" value="RA_BUTTON"/>
+<part name="SW2" library="KW2" deviceset="RA_BUTTON" device="" value="RA_BUTTON">
+<attribute name="MFGN" value="TE Connectivity"/>
+<attribute name="MFGP" value="2-1825027-0"/>
+</part>
 <part name="GND11" library="supply1" deviceset="GND" device=""/>
 <part name="R4" library="GW-devices" deviceset="RF-R" device="0805" value="10k">
 <attribute name="MFGN" value="Vishay Dale"/>
 <attribute name="MFGP" value="CRCW080510K0FKEA"/>
 </part>
 <part name="+3V9" library="supply1" deviceset="+3V3" device=""/>
-<part name="LED1" library="KW2" deviceset="RGLBED" device="" value="RGLBED"/>
+<part name="LED1" library="KW2" deviceset="RGLBED" device="" value="RGLBED">
+<attribute name="MFGN" value="Cree"/>
+<attribute name="MFGP" value="CLV1A-FKB-CK1N1G1BB7R4S3"/>
+</part>
 <part name="U$14" library="adafruit" deviceset="FIDUCIAL" device="" value="">
 <attribute name="NOTES" value="DNP"/>
 </part>
@@ -2632,7 +2644,10 @@ Source: http://www.ftdichip.com/Documents/DataSheets/DS_FT232R_v104.pdf</descrip
 <instance part="GND2" gate="1" x="-7.62" y="-43.18"/>
 <instance part="+3V1" gate="G$1" x="-10.16" y="63.5"/>
 <instance part="GND6" gate="1" x="-40.64" y="-55.88"/>
-<instance part="U1" gate="G$1" x="-55.88" y="2.54" rot="R180"/>
+<instance part="U1" gate="G$1" x="-55.88" y="2.54" rot="R180">
+<attribute name="MFGN" x="-55.88" y="2.54" size="1.778" layer="96" rot="R180" display="off"/>
+<attribute name="MFGP" x="-55.88" y="2.54" size="1.778" layer="96" rot="R180" display="off"/>
+</instance>
 <instance part="GND7" gate="1" x="-15.24" y="22.86"/>
 <instance part="R1" gate="&gt;NAME" x="-33.02" y="12.7">
 <attribute name="MFGN" x="-33.02" y="12.7" size="1.778" layer="96" display="off"/>
@@ -2646,10 +2661,16 @@ Source: http://www.ftdichip.com/Documents/DataSheets/DS_FT232R_v104.pdf</descrip
 <attribute name="MFGN" x="-33.02" y="2.54" size="1.778" layer="96" display="off"/>
 <attribute name="MFGP" x="-33.02" y="2.54" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="JTAG" gate="G$1" x="66.04" y="-60.96" rot="MR270"/>
+<instance part="JTAG" gate="G$1" x="66.04" y="-60.96" rot="MR270">
+<attribute name="MFGN" x="66.04" y="-60.96" size="1.778" layer="96" rot="MR270" display="off"/>
+<attribute name="MFGP" x="66.04" y="-60.96" size="1.778" layer="96" rot="MR270" display="off"/>
+</instance>
 <instance part="+3V7" gate="G$1" x="81.28" y="-83.82" rot="R270"/>
 <instance part="GND8" gate="1" x="48.26" y="-83.82" rot="R270"/>
-<instance part="SW2" gate="G$1" x="22.86" y="-60.96"/>
+<instance part="SW2" gate="G$1" x="22.86" y="-60.96">
+<attribute name="MFGN" x="22.86" y="-60.96" size="1.778" layer="96" display="off"/>
+<attribute name="MFGP" x="22.86" y="-60.96" size="1.778" layer="96" display="off"/>
+</instance>
 <instance part="GND11" gate="1" x="12.7" y="-66.04"/>
 <instance part="R4" gate="&gt;NAME" x="-35.56" y="-35.56" smashed="yes" rot="R180">
 <attribute name="NAME" x="-34.29" y="-37.0586" size="1.778" layer="95" rot="R180"/>
@@ -2658,7 +2679,10 @@ Source: http://www.ftdichip.com/Documents/DataSheets/DS_FT232R_v104.pdf</descrip
 <attribute name="MFGP" x="-35.56" y="-35.56" size="1.778" layer="96" rot="R180" display="off"/>
 </instance>
 <instance part="+3V9" gate="G$1" x="-45.72" y="-30.48"/>
-<instance part="LED1" gate="G$1" x="-91.44" y="40.64" rot="R90"/>
+<instance part="LED1" gate="G$1" x="-91.44" y="40.64" rot="R90">
+<attribute name="MFGN" x="-91.44" y="40.64" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MFGP" x="-91.44" y="40.64" size="1.778" layer="96" rot="R90" display="off"/>
+</instance>
 <instance part="U$14" gate="G$1" x="-91.44" y="-78.74">
 <attribute name="NOTES" x="-91.44" y="-78.74" size="1.778" layer="96" display="off"/>
 </instance>
