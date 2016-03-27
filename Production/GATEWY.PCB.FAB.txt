@@ -1,0 +1,25 @@
+GATEWY.PCB.v1.0
+2/20/16
+
+- Material: FR4
+- Thickness: 0.062"
+- Copper weight: 1 oz
+- All vias tented (included in soldermask layers)
+- Solder mask: BLACK
+- Silk screen: WHITE (both sides)
+- Hole diameters applicable after plating
+- UL796 Flammability Rating 94V-0. Fabricator's UL Logo shall be placed on bottom side of board
+- Date of manufacture and lot code shall be placed on bottom side of board
+- Stackup: 
+  Top Paste         - GATEWY.PCB.SPT
+  Top Silkscreen    - GATEWY.PCB.SST 
+  Top Soldermask    - GATEWY.PCB.SMT
+  Top Copper        - GATEWY.PCB.TOP
+  Bottom Copper     - GATEWY.PCB.BOT
+  Bottom Soldermask - GATEWY.PCB.SMB
+  Bottom Silkscreen - GATEWY.PCB.SSB
+  Bottom Paste      - GATEWY.PCB.SPB
+  Excellon Drill    - GATEWY.PCB.drd
+  Board Outline     - GATEWY.PCB.FAB
+  Centroids (top)   - GATEWY.PCB.centroids.mnt
+  Centroids (bottom)- GATEWY.PCB.centroids.mnb
